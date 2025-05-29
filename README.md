@@ -7,7 +7,7 @@ TBW
 TBW
 
 ## 📊 GitHub Stats
-![Seus stats](https://github-readme-stats.vercel.app/api?username=seuusername&show_icons=true)
+![Seus stats](https://github-readme-stats.vercel.app/api?username=VitorDiToro&show_icons=true)
 
 ## 📫 Como me encontrar
 - LinkedIn: [https://www.linkedin.com/in/vitorditoro/]
