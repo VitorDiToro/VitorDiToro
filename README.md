@@ -9,11 +9,11 @@ Alongside my professional work, I am pursuing a Master's degree in Telecommunica
 
 Interested in high-performance computing, applied AI, and the intersection of software engineering and complex systems.
 
-## 💻 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,qt,py,anaconda,sklearn,tensorflow,pytorch,opencv,dotnet,cs,windows,linux,apple,regex,bash,powershell,git,github,bitbucket,githubactions,jenkins,visualstudio,vscode,pycharm,vim,ts,selenium,cypress,gherkin,postman,aws,azure,rabbitmq,docker,kubernetes,terraform,mysql,postgres,sqlite,firebase,matlab,latex,md,notion,raspberrypi,arduino,&perline=12&theme=light)](https://skillicons.dev)
+</br>
 
-## 📊 GitHub Stats
-![Seus stats](https://github-readme-stats.vercel.app/api?username=VitorDiToro&show_icons=true)
+## 💻 Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=cpp,c,cmake,qt,py,anaconda,sklearn,tensorflow,pytorch,opencv,dotnet,cs,windows,linux,apple,bash,powershell,regex,git,github,bitbucket,githubactions,jenkins,matlab,visualstudio,vscode,pycharm,vim,ts,selenium,cypress,gherkin,postman,aws,azure,rabbitmq,docker,kubernetes,terraform,mysql,postgres,sqlite,firebase,latex,md,notion,raspberrypi,arduino,&perline=12&theme=light)](https://skillicons.dev)
 
 ## 📫 Contact-me
 - LinkedIn: [in/vitorditoro](https://www.linkedin.com/in/vitorditoro/)
+- Email: [vitor@ditoro.dev.br](mailto:vitor@ditoro.dev.br)
