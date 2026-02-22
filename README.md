@@ -1,7 +1,7 @@
 # Hi! 👋 I'm Vítor R. Di Toro"
 
 ## 🚀 About me
-Software Engineer with 12 years of experience in software development, including 10 years specializing in C/C++ programming and system-level engineering. 
+Software Engineer with 12 years of experience, including 10 years specializing in C/C++ for security solutions and high-performance systems, with a strong background in system-level engineering and solution architecture. 
 My background includes extensive work with embedded Linux-based systems, as well as developing robust security solutions, firewalls, and multi-factor authentication (MFA) systems with enterprise policy integrations for Windows and macOS.
 
 In my current role, I am working for INATEL (National Institute of Telecommunications), focusing on high-performance C++ algorithm optimizations for software-defined radio (SDR) for 5G and 6G mobile networks.
