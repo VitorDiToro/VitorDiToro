@@ -1,4 +1,4 @@
-# Hi! 👋 I'm Vitor R. Di Toro"
+# Hi! 👋 I'm Vítor R. Di Toro"
 
 ## 🚀 About me
 Software Engineer with 12 years of experience in software development, including 10 years specializing in C/C++ programming and system-level engineering. 
